@@ -13,7 +13,7 @@
 <br/>
 
 ## About :sunglasses:
-I'am the student of UFC - Federal University of Ceará - and also, i'am student of Rocketseat. I grow up in the small city of Ceará called Horizonte. with my 15 years i have my first deep contact with computers. In the high school i learned the basic of PHP, HTML5 and CSS3. In the university I entered in the weold of JS. So until here, i have experiences with TypeScript, Javascript and somes Frameworks, like ReactJs, AdonisJs, Express, React Native and anothers.
+I'm the student of UFC - Federal University of Ceará - and also, I'm a student of Rocketseat. I grow up in the small city of Ceará called Horizonte. with my 15 years, I had my first deep contact with computers. In high school, I learned the basics of PHP, HTML5, and CSS3. In the university, I entered the world of JS. So until here, I have experiences with TypeScript, Javascript, and some Frameworks, like ReactJs, AdonisJs, Express, React Native, and others.
 
 ## Technologies :fire:
 - Web development with **ReactJS**
