@@ -13,11 +13,11 @@
 <br/>
 
 ## About :sunglasses:
-I'm the student of UFC - Federal University of Ceará - and also, I'm a student of Rocketseat. I grow up in the small city of Ceará called Horizonte. with my 15 years, I had my first deep contact with computers. In high school, I learned the basics of PHP, HTML5, and CSS3. In the university, I entered the world of JS. So until here, I have experiences with TypeScript, Javascript, and some Frameworks, like ReactJs, AdonisJs, Express, React Native, and others.
+Highly skilled Frontend Developer with expertise in React, Next.js, React Native, Expo, Node.js, and Nest.js, grounded in PHP. Graduated with honors in Software Engineering and possessing a technical informatics background from high school. Proven ability to craft dynamic and efficient web and mobile applications, optimizing performance and ensuring an enhanced user experience. Proficient in building modern, responsive interfaces using React and Next.js, and adept at creating intuitive mobile applications with React Native and Expo. Solid experience in developing robust and scalable servers with Node.js and Nest.js. Committed to continuous learning, I bring a strong academic foundation and a passion for innovation to tackle complex challenges with creativity and efficiency. Excited to contribute technical expertise and problem-solving skills to challenging projects.
 
 ## Technologies :fire:
 - Web development with **ReactJS**
-- Mobile development with **Flutter and React Native**
+- Mobile development with **React Native**
 - Backend development with **NodeJs**
 
 **Languages and Tools:**  
